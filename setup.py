@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing",
+    name="image_processing-leosafr",
     version="0.0.1",
     author="Leandro",
     description="Image Processing Package using skimage",
